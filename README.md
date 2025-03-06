@@ -52,6 +52,7 @@ Sou “Engenheira” de Marketing, tenho mais de 10 anos de experiência na áre
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+---
 ### 📊 Estatísticas
 
 <p>
