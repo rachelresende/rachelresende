@@ -10,6 +10,7 @@ Sou “Engenheira” de Marketing, tenho mais de 10 anos de experiência na áre
         <img 
             alt="youtube" 
             title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCKsbAuYCCMy1TNwXDOLv3kw?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
 </p>
