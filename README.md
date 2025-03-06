@@ -29,4 +29,27 @@ Sou “Engenheira” de Marketing, tenho mais de 10 anos de experiência na áre
             src="https://custom-icon-badges.demolab.com/github/followers/rachelresende?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    </p>
+</p>
+
+---
+---
+
+### 🤖 Linguagens e Tecnologias
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<br/>
+<br/>
