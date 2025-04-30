@@ -4,7 +4,6 @@
 
 Sou uma Analista de Dados Júnior/Pleno com afinidade em transformar dados brutos em insights acionáveis para impulsionar estratégias de marketing e produto. Possuo conhecimento em Python (Pandas, NumPy, Matplotlib, Seaborn) e SQL, com experiência na consulta e manipulação de dados de campanhas digitais, comportamento do consumidor e performance de produtos. Tenho boas noções na criação de visualizações e dashboards intuitivos utilizando ferramentas como Power BI, Metabase, Excel e Looker, comunicando resultados complexos de forma clara e concisa para as equipes de marketing e produto.
 
-</p>
 <p>
     <a href="https://github.com/rachelresende?tab=repositories&sort=stargazers">
         <img 
